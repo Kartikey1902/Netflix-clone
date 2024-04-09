@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://github.com/Kartikey1902/Netflix-clone)
+Clone of the Netflix website landing page as a light HTML CSS and JS excercise - [Take a look](https://github.com/Kartikey1902/Netflix-clone)
 
 ## What it is
 
